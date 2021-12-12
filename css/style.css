@@ -3,6 +3,9 @@ body {
     overflow: hidden;
 }
 
+
+/* Navigation Styling */
+
 #navLinks {
     justify-content: flex-end;
 }
@@ -25,3 +28,6 @@ body {
 #bavbar-button {
     align-items: flex-end;
 }
+
+
+/* End of Navigation Styling */
