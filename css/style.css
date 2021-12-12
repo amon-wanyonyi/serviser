@@ -41,8 +41,21 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     color: #fff;
-    margin-top: 5px;
 }
 
 
 /* End of Landing Page Styling */
+
+
+/* Get in Touch Styling */
+
+.get-in-touch {
+    background: url('../assets/Rectangle\ 11.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+
+/* End of Get in Touch Styling */
