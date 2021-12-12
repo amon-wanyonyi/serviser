@@ -31,3 +31,18 @@ body {
 
 
 /* End of Navigation Styling */
+
+
+/* Landing Page Styling */
+
+#landing {
+    background: url('../assets/bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    margin-top: 5px;
+}
+
+
+/* End of Landing Page Styling */
